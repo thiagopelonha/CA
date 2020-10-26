@@ -6,7 +6,7 @@
 <?php
         $serch = filter_input(INPUT_GET, 'drink');
 
-        $cocktail = array("Vodka"=>"Sex on the beach", "Whiskey"=>"Old Fashioned", "GIN"=>"Bramble");
+        $cocktail = array("Vodka"=>"Sex on the beach", "Whiskey"=>"Old Fashioned", "GIN"=>"Bramble","Rum"=>"Daquiri", "Tia maria"=>"Expresso martini", "Tequila"=>"Margarita");
 
         echo isset($cocktail[$serch])? $cocktail[$serch] : 'Sorry, but this Alcoholic Drink is not listed';
 
