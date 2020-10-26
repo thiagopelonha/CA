@@ -8,7 +8,7 @@
 
         $cocktail = array("Vodka"=>"Sex on the beach", "Whiskey"=>"Old Fashioned", "GIN"=>"Bramble","Rum"=>"Daquiri", "Tia maria"=>"Expresso martini", "Tequila"=>"Margarita");
 
-        echo isset($cocktail[$serch])? $cocktail[$serch] : 'Sorry, but this Alcoholic Drink is not listed';
+        echo isset($cocktail[$serch])? $cocktail[$serch] : 'This Alcoholic Drink is not listed';
 
         foreach($cocktail as $x => $x_value) {
                 
