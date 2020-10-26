@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--  THE STRUCTURE OF THE WEBSITE WAS TAKEN FROM BOOTSTRAP TEMPLATE -->
 <html lang="en">
 <head>
   <title>Bootstrap Website Example</title>
@@ -42,8 +43,8 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li><a href="index.php">Home</a></li>
-        <li><a href="page2.php">Page 2</a></li>
-        <li><a href="page3.php">Page 3</a></li>
+        <li><a href="Array.php">Array</a></li>
+        <li><a href="Form.php">Form</a></li>
       </ul>
     </div>
     

@@ -1,6 +1,6 @@
 
   <?php include('include/header.php');?>
-
+<!--  THE STRUCTURE OF THE WEBSITE WAS TAKEN FROM BOOTSTRAP TEMPLATE -->
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
